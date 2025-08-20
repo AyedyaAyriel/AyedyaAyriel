@@ -1,16 +1,44 @@
-## Hi there 👋
+# ᯓᡣ𐭩Who is me࣪ ִֶָ☾.?
 
-<!--
-**AyedyaAyriel/AyedyaAyriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A college student from **National University - Laguna** with a course and degree *(Bachelor of Science in Computer Science)*.
 
-Here are some ideas to get you started:
+<details>
+  <summary>see more...</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Things you might be thinking about my interests?
+
+i'm learning... *bip bop biipp*\
+˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅
+
+*Programming languages:*
+- Java
+- Python
+- ... eager to learn more!
+
+i'm a solid fan of Linux 🐧....\
+˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅\
+*OSes i'm using:*
+- Linux (Arch btw, Ubuntu(customized Gnome DE), Ubuntu Mate (customized MATE DE), *~~RaspberryPiOS~~*)
+- Windows 11 (Debloated)
+- Hackintosh (VM)
+
+Favorite Programs? ... sorry, won't be sharing heheh.
+
+### What I like?
+- **Pink and Brown** 🩷🤎 yes ofc
+- Organizing things. yes i kinda have OCD 😬
+- OpenSource programs
+- Arts and Crafts
+- Making Digital Arts
+- Sleeping on my cozy bed... 🌜
+- Working out 💪🏻
+- Producing and making music covers
+- Overthinking things I shouldn't be...
+- Listening to a same song over and over... 🎧
+
+[=========================================================================================]
+
+we're developing a game tho...  *interested... sure ;>* [**---- ۶ৎ click click cloock cloock this link ★ ----**](https://github.com/AyedyaAyriel/Game-Project.git "click click cloock cloock this")
+
+
+# ────────────୨ THE END ৎ────────────────
