@@ -1,6 +1,6 @@
 # ᯓᡣ𐭩Who is me࣪ ִֶָ☾.?
 
-A college student from **National University - Laguna** currently taking a course and degree of *Bachelor of Science in Computer Science*.
+A college student from **National University - Laguna**, currently taking a course and a degree of *Bachelor of Science in Computer Science*.
 
 <details>
   <summary>see more...</summary>
