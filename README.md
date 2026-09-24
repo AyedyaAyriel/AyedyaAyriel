@@ -5,7 +5,7 @@ A college student from **National University - Laguna**, currently taking a cour
 <details>
   <summary>see more...</summary>
 
-### Things you might be thinking of my interests?
+### ABOUT ME [1]:
 
 i'm learning... *bip bop biipp*\
 ˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅
@@ -18,13 +18,13 @@ i'm learning... *bip bop biipp*\
 i'm a solid fan of Linux 🐧....\
 ˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅\
 *OSes i'm using:*
-- Linux (Zorin OS Pro (heavily customized Gnome DE Gruvbox Theme), Linuxmint Vera 21.1 (heavily customised Gnome DE Nord Theme), Kubuntu (workstation for creativity and music production), TwisterOS (heavily customized work environment), cachyos (XFCE DE), ~~Ubuntu(customized Gnome DE), Ubuntu Mate (customized MATE DE)~~, *~~RaspberryPiOS~~*)
+- Linux (Zorin OS Pro (heavily customized Gnome DE | Gruvbox Theme), Linuxmint Vera 21.1 (heavily customised Gnome DE | Nord Theme), Kubuntu (workstation for creativity and music production), TwisterOS (heavily customized work environment), cachyos (for larping | XFCE DE), ~~Ubuntu(customized Gnome DE), Ubuntu Mate (customized MATE DE)~~, *~~RaspberryPiOS~~*)
 - Windows 11 (Debloated)
 - Hackintosh (VM)
 
-Favorite Programs? ... sorry, won't be sharing heheh.
+Favorite Applications / Programs? ... nahh, won't be sharing it here heheh :3
 
-### What I like?
+### ABOUT ME [2]:
 - **Pink and Brown** 🩷🤎 yes ofc
 - Organizing things. yes i kinda have OCD 😬
 - OpenSource programs
