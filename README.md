@@ -5,7 +5,7 @@ A college student from **National University - Laguna**, currently taking a cour
 <details>
   <summary>see more...</summary>
 
-### ABOUT ME [1] :>
+### ABOUT ME [1] Ɛ>
 
 i'm learning... *bip bop biipp*\
 ˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅
