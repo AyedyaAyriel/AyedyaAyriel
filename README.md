@@ -5,7 +5,7 @@ A college student from **National University - Laguna**, currently taking a cour
 <details>
   <summary>see more...</summary>
 
-### Things you might be thinking about my interests?
+### Things you might be thinking of my interests?
 
 i'm learning... *bip bop biipp*\
 ˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅
