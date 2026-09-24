@@ -7,7 +7,7 @@ A college student from **National University - Laguna**, currently taking a cour
 
 ### ABOUT ME [1] Ɛ>
 
-i'm learning... *bip bop biipp*\
+i'm learning... *beep boop beep*\
 ˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅
 
 *Programming Languages:*
@@ -34,7 +34,7 @@ Favorite Applications / Programs? ... nahh, won't be sharing it here heheh
 - Making Digital/Traditional Art 🎨
 - I love sleeping in my warm, cozy introvert room ... 🌜
 - I have a super Productive & Aesthetic Workstation 💻
-- I have a separate/chaotic room for tinkering ;]
+- I have a gaming/chaotic room for tinkering 🎮
 - I love producing and making music covers 🎶
 - Always been overthinking things I shouldn't have to... 🧠
 - Repeatedly listening to a same song over and over... 🎧
