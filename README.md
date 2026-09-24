@@ -18,7 +18,7 @@ i'm learning... *bip bop biipp*\
 i'm a solid fan of Linux 🐧....\
 ˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅\
 *OSes i'm using:*
-- Linux (Arch btw, Zorin OS Pro (heavily customized Gnome DE Gruvbox Theme), Linuxmint Vera 21.1 (heavily customised Gnome DE Nord Theme), TwisterOS (heavily customized work environment), ~~Ubuntu(customized Gnome DE), Ubuntu Mate (customized MATE DE)~~, *~~RaspberryPiOS~~*)
+- Linux (Zorin OS Pro (heavily customized Gnome DE Gruvbox Theme), Linuxmint Vera 21.1 (heavily customised Gnome DE Nord Theme), TwisterOS (heavily customized work environment), Kubuntu (workstation for creativity and music production), cachyos (XFCE DE), ~~Ubuntu(customized Gnome DE), Ubuntu Mate (customized MATE DE)~~, *~~RaspberryPiOS~~*)
 - Windows 11 (Debloated)
 - Hackintosh (VM)
 
