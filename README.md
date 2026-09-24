@@ -15,7 +15,7 @@ i'm learning... *bip bop biipp*\
 - Python
 - ... eager to learn more!
 
-i'm a solid fan of Linux 🐧....\
+Die hard fan of Linux 🐧....\
 ˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅˅\
 *OSes i'm using:*
 - Linux (Zorin OS Pro (heavily customized Gnome DE | Gruvbox Theme), Linuxmint Vera 21.1 (heavily customised Gnome DE | Nord Theme), Kubuntu (workstation for creativity and music production), TwisterOS (heavily customized work environment), cachyos (for larping | XFCE DE), ~~Ubuntu(customized Gnome DE), Ubuntu Mate (customized MATE DE)~~, *~~RaspberryPiOS~~*)
@@ -25,16 +25,19 @@ i'm a solid fan of Linux 🐧....\
 Favorite Applications / Programs? ... nahh, won't be sharing it here heheh :3
 
 ### ABOUT ME [2]:
-- **Pink and Brown** 🩷🤎 yes ofc
-- Organizing things. yes i kinda have OCD 😬
-- OpenSource programs
-- Arts and Crafts
-- Making Digital Arts
-- Sleeping on my cozy bed... 🌜
-- Working out 💪🏻
-- Producing and making music covers
-- Overthinking things I shouldn't be...
-- Listening to a same song over and over... 🎧
+- Favorite Colors (1): **Orange and Brown** 🤎
+- Favorite Colors (2): **Pink and Black** 🩷
+- Organizing/Tidying/Cleaning is my hobby.
+- ADHD Person and a bit of an OCD Person 😬
+- OpenSource programs HECK YEAHH
+- Unleashing my creativity side through Arts and Crafts
+- Making Digital/Traditional Art
+- I love sleeping in my warm, cozy introvert room ... 🌜
+- I have a super Productive & Aesthetic Workstation
+- I have a separate/chaotic room for tinkering ;]
+- I love producing and making music covers
+- Always been overthinking things I shouldn't have to...
+- Repeatedly listening to a same song over and over... 🎧
 
 [=========================================================================================]
 
